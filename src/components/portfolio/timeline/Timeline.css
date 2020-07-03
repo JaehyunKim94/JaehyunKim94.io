@@ -1,0 +1,16 @@
+div.title {
+    margin-bottom: 10px;
+}
+
+div.title h1{
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-size: 50px;
+    font: bold;
+    color: #735250;
+}
+
+div.context{
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-size: 18px;
+    color: #394140;
+}
