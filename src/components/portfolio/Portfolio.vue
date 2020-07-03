@@ -1,23 +1,23 @@
 <template>
   <v-container class="page">
-    <v-row>
-      <v-col cols="4" class="baseinfo">
-				<baseinfo />
+    <v-row class="page1">
+      <v-col cols="7" class="profile">
+				<Profile />
       </v-col>
-      <v-col cols="8" class="timeline">
-				<Timeline />
+      <v-col cols="5" class="minitab">
+        <Minitab />
       </v-col>
     </v-row>
   </v-container>
 </template>
 
 <script>
-import Timeline from './timeline/Timeline.vue'
-import Baseinfo from './baseinfo/Baseinfo.vue'
+import Profile from './profile/Profile.vue'
+import Minitab from './minitab/Minitab.vue'
 export default {
 	components: {
-		Timeline,
-		Baseinfo
+    Profile,
+    Minitab
 	}
 };
 </script>
