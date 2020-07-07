@@ -1,11 +1,12 @@
 .minitab {
+    margin-top: 7vh;
     padding-top: 4vw;
+}
+
+div.v-tab {
+    font-size: 20px;
 }
 
 .profiletab {
     font-size: 20px;
-}
-
-div.tabcard.v-card.v-sheet.theme--light {
-    background-color: transparent;
 }
