@@ -4,16 +4,15 @@
 }
 
 .profile h1 {
-    font-size: 6vw;
+    font-size: 4vw;
     line-height: 1;
-}
-
-.imgbox {
-    margin-top: -10vw;
-    padding-bottom: 0;
-    padding-left: 7vw;
 }
 
 .profileimg {
     width: 100%;
+}
+
+
+.imgbox {
+    padding-bottom: 0;
 }

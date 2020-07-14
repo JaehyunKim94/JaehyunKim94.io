@@ -1,10 +1,10 @@
 <template>
   <v-container class="page">
     <v-row class="page1">
-      <v-col cols="7" class="profile">
+      <v-col cols="6" class="profile">
 				<Profile />
       </v-col>
-      <v-col cols="5" class="minitab">
+      <v-col cols="6" class="minitab">
         <Minitab />
       </v-col>
     </v-row>
