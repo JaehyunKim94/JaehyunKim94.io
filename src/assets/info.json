@@ -1,0 +1,64 @@
+{
+    "info": {
+        "profile": {
+            "lastname": "Last",
+            "firstname": "First",
+            "github": "Github URL",
+            "phone": "Phone number",
+            "email": "email Address",
+            "address": "Address",
+            "greetings": "Hello"
+        },
+        "educations": [
+            {
+                "name": "School",
+                "year": "2010 ~ 2013",
+                "detail": "4.5/4.5",
+                "major": "Major"
+            }
+        ],
+        "projects":[
+            {
+                "title": "Project 1",
+                "roll": "Roll 1",
+                "description": "Description 1",
+                "videoURL": "youtube URL 1",
+                "githubURL": "github URL 1"
+            },
+            {
+                "title": "Project 2",
+                "roll": "Roll 2",
+                "description": "Description 2",
+                "videoURL": "youtube URL 2",
+                "githubURL": "github URL 2"
+            },
+            {
+                "title": "Project 3",
+                "roll": "Roll 3",
+                "description": "Description 3",
+                "videoURL": "youtube URL 3",
+                "githubURL": "github URL 3"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Skill 1",
+                "level": 1
+            },
+            {
+                "name": "Skill 2",
+                "level": 2
+            },
+            {
+                "name": "Skill 3",
+                "level": 3
+            }
+        ],
+        "achievements": [
+            {
+                "name": "",
+                "date": ""
+            }
+        ]
+    }
+}
