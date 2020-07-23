@@ -8,7 +8,7 @@
 
 <script>
 import Home from './views/Home'
-
+import {mapActions} from 'vuex'
 export default {
   name: 'App',
 
@@ -19,5 +19,11 @@ export default {
   data: () => ({
     //
   }),
+  methods: {
+    ...mapActions({init: 'dbInit'})
+  },
+  mounted() {
+    this.init()
+  }
 };
 </script>
