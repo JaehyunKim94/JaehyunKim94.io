@@ -16,3 +16,8 @@
 .imgbox {
     padding-bottom: 0;
 }
+
+div.v-responsive__content h1 {
+    text-transform: uppercase;
+  }
+  

@@ -36,7 +36,6 @@ export default new Vuex.Store({
       commit('setSkills', res.skills)
       commit('setAchieve', res.achievements)
       commit('setEducations', res.educations)
-      // console.log(this.state)
     }
   },
   modules: {

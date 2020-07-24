@@ -1,0 +1,10 @@
+.pjtDetail {
+    color: white;
+    background-color: #303342;
+    padding-left: 2vw;
+}
+
+div.container.pjtDetail h1 {
+    font-weight: normal;
+    font-size: x-large;
+  }

@@ -1,8 +1,24 @@
 .page {
+    color: white;
+    background-color: #303342;
     padding: 0;
 }
 
 .page4 {
+    padding-left: 2vw;
     color: white;
     background-color: #303342;
+}
+
+.title {
+    color: white;
+    background-color: #303342;
+}
+
+.skillname {
+    font-size: 15px;
+}
+
+.skill {
+    padding-bottom: 0;
 }
